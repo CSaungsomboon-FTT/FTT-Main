@@ -1,0 +1,10 @@
+Sub main()
+
+Dim oApp As SldWorks.SldWorks
+Dim oDoc As SldWorks.DrawingDoc
+Dim oSheet As SldWorks.Sheet
+
+Set swApp = Application.SldWorks
+
+
+End Sub
