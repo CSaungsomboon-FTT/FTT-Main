@@ -2,3 +2,18 @@ Repository to document all work relating to the Design Engineer Role at FTT
 
 Mostly will be used for personal version control and project management via issues.
 Macros will be committed to the main repo until the folder structure has a need to be reorganised.
+
+
+VBA Macro Ideas:
+
+- VBA Macro to autocreate X/Y/Z axis on part or assembly generation
+  - Macro should have option to operate on existing parts
+  - Note
+    - Error if X/Y/Z exists as a named axis
+    - Should only operate on selected files
+    - Axes should be hidden after creation, but still be selectable in the tree
+
+- BOM version control using GIT and EFACS
+  - May be redundant and superceded by EFACS functionality
+
+- Auto position M6 nuts for the server racks within the square holes
