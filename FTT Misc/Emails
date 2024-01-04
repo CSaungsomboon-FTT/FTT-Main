@@ -15,6 +15,7 @@ Black PETG filament can be found at this link: PETG Basic . Other colours are av
 I would be happy to answer any other questions if I can, otherwise this should cover all the startup needs for a 3D printer.
 
 ----------------------------------------------------------------------
+
 Hi All,
 
 Some thoughts about 3D printers!
@@ -57,3 +58,19 @@ Below £200
 Creality Ender 3 V2 Neo - £194
 -	Good introduction printer.
 -	Best value for money and reasonable print quality – may be suitable if FTT would like a basic workhorse.
+
+----------------------------------------------------------------------
+
+Hi Matt,
+
+I have been testing the EFACS system and have found that for the most part, everything looks great and is easy to explore and use. However, I think the Stock Management module would be beneficial for the members of the Engineering team to have access to.
+
+The module, and the Stocked Part application in particular, would be useful for engineering so that we can plan projects around stock order and arrival, and deal with urgent issues effectively by knowing what components are in stock or not. 
+
+Andy and I have been trying to find quantity info about a few PCBs that we have in stock and on order, and I currently haven’t been able to discover a way to access it - if there is a way to have the info without the Stock Management module, that would also be great to know.
+
+----------------------------------------------------------------------
+
+Hi Cara,
+
+Thank you.  I think I need to create a more fully featured Engineering Role within EFACS .  It won’t be this week, but you make a reasonable case, so I’ll see what I can do once we are live next week.
