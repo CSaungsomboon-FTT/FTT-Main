@@ -1,0 +1,59 @@
+Hi Jim,
+
+I have forwarded the email I sent out about potential 3D printers below – I think the Bambu Lab P1P is a good choice for what we are looking for in a 3D printer and would be a real benefit to the R&D work the team does.
+
+The printer can be found at the link here: Bambu Lab P1P
+
+The printer will work with the Bambu Studio software which is a free, open-source slicer that can send print jobs via Wi-Fi – an FTT R&D account should be set up which we all have access to. This can be found here: Software - Bambu Lab
+
+We would need some filament for the printer once the included samples are used up and a few spools would be best – it is hard to gauge when they would need to be replenished on average, so 2 spools to begin with would be good. Filament does not need to be 3D printer brand specific, but Bambu sells filament of the correct diameter so would be a straightforward choice.
+
+For material, the common choices are PETG and PLA - I would recommend PETG as it is a very easy filament to print and is also more durable than PLA so would be good for prototyping and tools.
+
+Black PETG filament can be found at this link: PETG Basic . Other colours are available so in the future we could always get an orange and white for the FTT logo!
+
+I would be happy to answer any other questions if I can, otherwise this should cover all the startup needs for a 3D printer.
+
+----------------------------------------------------------------------
+Hi All,
+
+Some thoughts about 3D printers!
+
+I think for an R&D printer for Engineering it should be able to do the following:
+-	Print with a decent print quality and at speed.
+o	Any mating parts should fit well, and minimal manual finishing is required.
+o	Rapid prototyping is achievable with quick successions of prints.
+-	Should be compatible with as many filaments and slicing softwares as possible.
+-	Build Volume is appropriate for the prints that R&D may require:
+o	Average volume is appx 220x220x250 mm – I think this should be suitable for FTT.
+-	Price should be good value for money.
+-	Printer should be relatively quiet as will be used in an office.
+-	More suggestions are welcome!
+
+The following 3D printers are ones that would be considered midrange for the current printer market – there are a lot of different models offering a wide variety of features for the price so it can be tricky to figure out which would be best. However, with enough tweaking and setup, any of these would be suitable and would produce good enough prints for R&D. I have been looking for a 3D printer personally so that’s why I have a good list to hand!
+
+If FTT would like to have a dedicated production printer in the future, the printer selection should be revisited as there may be others in the market that would be more suitable for high volume parts.
+
+£500 and above
+Bambu Lab P1P - £549
+-	Plug and play with a vibration/noise dampening enclosure.
+-	Very fast print speed and great quality.
+Original Prusa i3 MK3S+ 3D Printer kit - £634.80
+-	Self-assemble kit, and an often best rated midrange 3D printer currently due to Prusa’s build quality and document support.
+-	Fast print speed and excellent repeatable prints.
+
+£200 - £500
+Anycubic Kobra Max - £489
+-	Very large build volume @ 400x400x450 mm!
+-	Speed and quality are trade-offs.
+Creality Ender 3 S1 Pro 3D Printer - £343
+-	Lots of filament options with high temperature nozzle.
+-	Essentially an upgrade on the Ender 3 and can be upgraded with a laser engraving module.
+Anycubic Kobra 2 - £259
+-	Very well reviewed printer at the price point.
+-	Capable of very fast prints but I think print quality is a trade-off.
+
+Below £200
+Creality Ender 3 V2 Neo - £194
+-	Good introduction printer.
+-	Best value for money and reasonable print quality – may be suitable if FTT would like a basic workhorse.
