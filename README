@@ -17,3 +17,8 @@ VBA Macro Ideas:
   - May be redundant and superceded by EFACS functionality
 
 - Auto position M6 nuts for the server racks within the square holes
+  - OOO:
+    1. select internal face of rack to be used across multiple nuts.
+    2. Select square faces/vertex loop/2 faces of desired position.
+    3. Continue onto next nut
+    4. Exit loop
