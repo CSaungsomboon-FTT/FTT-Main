@@ -19,6 +19,6 @@ VBA Macro Ideas:
 - Auto position M6 nuts for the server racks within the square holes
   - OOO:
     1. select internal face of rack to be used across multiple nuts.
-    2. Select square faces/vertex loop/2 faces of desired position.
+    2. Select square faces/vertex loop/2 faces of desired position - select universal z and y faces and then select x face, use set offset from x to centre nut in square
     3. Continue onto next nut
     4. Exit loop
